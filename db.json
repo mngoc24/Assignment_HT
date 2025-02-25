@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "name": "Sản phẩm 2",
+      "image": "https://picsum.photos/300/300",
+      "price": "20002",
+      "category": "Sách",
+      "shortDesc": "sadfg",
+      "description": "ddawdws",
+      "id": "2"
+    },
+    {
+      "name": "Sản phẩm 32",
+      "image": "https://picsum.photos/300/300",
+      "price": "90000",
+      "category": "Quần áo",
+      "shortDesc": "sản phẩm 2",
+      "description": "sản phẩm 2",
+      "id": "3"
+    },
+    {
+      "name": "qqw112",
+      "image": "https://picsum.photos/300/300",
+      "price": "200000",
+      "category": "Dụng cụ nấu ăn",
+      "shortDesc": "sản phẩm 3",
+      "description": "sản phẩm 3",
+      "id": "4ce3"
+    },
+    {
+      "name": "sa2e12wd",
+      "image": "https://picsum.photos/300/300",
+      "price": "12346",
+      "category": "Thiết bị thông minh",
+      "shortDesc": "sản phẩm 4",
+      "description": "sản phẩm 4",
+      "id": "2d30"
+    },
+    {
+      "name": "a",
+      "image": "https://picsum.photos/300/300",
+      "price": "111111",
+      "category": "Sách",
+      "shortDesc": "sản phẩm 5",
+      "description": "sản phẩm 5",
+      "id": "25a5"
+    },
+    {
+      "name": "Sản phẩm 8",
+      "image": "https://picsum.photos/300/300",
+      "price": "25000",
+      "category": "Quần áo",
+      "shortDesc": "đây là mô tả ngắn",
+      "description": "đây là mô tả",
+      "id": "de39"
+    }
+  ],
+  "categories": [
+    {
+      "id": "fb0e",
+      "name": "Quần áo",
+      "image": "https://picsum.photos/300/300"
+    },
+    {
+      "id": "f6ac",
+      "name": "Dụng cụ nấu ăn",
+      "image": "https://picsum.photos/300/300"
+    },
+    {
+      "id": "765d",
+      "name": "Thiết bị thông minh",
+      "image": "https://picsum.photos/300/300"
+    },
+    {
+      "name": "Sách",
+      "image": "https://picsum.photos/300/300",
+      "id": "14e9"
+    }
+  ],
+  "users": []
+}
